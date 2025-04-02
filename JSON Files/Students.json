@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "AMOL",
+      "location": "INDIA",
+      "phone": 1111,
+      "courses": [
+        "JAVA",
+        "SELENIUM"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kiran",
+      "location": "US",
+      "phone": "2222",
+      "courses": [
+        "python",
+        "appium"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ganesh",
+      "location": "Pune",
+      "phone": "3333",
+      "courses": [
+        "Python",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 4,
+      "courses": [
+        "SQL",
+        "Selenium"
+      ],
+      "phone": "4444",
+      "name": "Mahesh",
+      "location": "Mumbai"
+    }
+  ]
+}
