@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="P2_CreatingPostRequestPayloadInMultipleWays.Ex3_postRequest_ExternalJSONFile">
+      <class name="P3_ResponseValidation.Ex1_ValidateResponse_getRequest_Students">
         <methods>
-          <include name="TC1_createNewStudentDeatail"/>
+          <include name="TC1_validateReponseOfSingleStudent"/>
         </methods>
-      </class> <!-- P2_CreatingPostRequestPayloadInMultipleWays.Ex3_postRequest_ExternalJSONFile -->
+      </class> <!-- P3_ResponseValidation.Ex1_ValidateResponse_getRequest_Students -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
