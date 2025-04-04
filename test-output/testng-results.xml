@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-03T21:38:58 IST" name="Default suite" finished-at="2025-04-03T21:38:59 IST" duration-ms="1588">
+  <suite started-at="2025-04-04T21:24:34 IST" name="Default suite" finished-at="2025-04-04T21:24:36 IST" duration-ms="1783">
     <groups>
     </groups>
-    <test started-at="2025-04-03T21:38:58 IST" name="Default test" finished-at="2025-04-03T21:38:59 IST" duration-ms="1588">
-      <class name="P3_ResponseValidation.Ex1_ValidateResponse_getRequest_Students">
-        <test-method signature="TC2_validateReponseOfMultipleStudent()[pri:2, instance:P3_ResponseValidation.Ex1_ValidateResponse_getRequest_Students@55b7a4e0]" started-at="2025-04-03T21:38:58 IST" name="TC2_validateReponseOfMultipleStudent" finished-at="2025-04-03T21:38:59 IST" duration-ms="1557" status="PASS">
+    <test started-at="2025-04-04T21:24:34 IST" name="Default test" finished-at="2025-04-04T21:24:36 IST" duration-ms="1783">
+      <class name="P4_Logging_Path_Query_Parameters_Cookies_Headers.Ex3_Cookies">
+        <test-method signature="getCookieInfo()[pri:0, instance:P4_Logging_Path_Query_Parameters_Cookies_Headers.Ex3_Cookies@5f058f00]" started-at="2025-04-04T21:24:34 IST" name="getCookieInfo" finished-at="2025-04-04T21:24:36 IST" duration-ms="1758" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC2_validateReponseOfMultipleStudent -->
-      </class> <!-- P3_ResponseValidation.Ex1_ValidateResponse_getRequest_Students -->
+        </test-method> <!-- getCookieInfo -->
+      </class> <!-- P4_Logging_Path_Query_Parameters_Cookies_Headers.Ex3_Cookies -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

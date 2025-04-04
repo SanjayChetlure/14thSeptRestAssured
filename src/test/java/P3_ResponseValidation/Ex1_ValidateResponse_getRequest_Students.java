@@ -27,7 +27,6 @@ public class Ex1_ValidateResponse_getRequest_Students
 			.body("courses[0]", equalTo("JAVA"))
 			.body("courses[1]", equalTo("SELENIUM"))
 			.contentType("application/json");		//content Type
-		
 	}
 	
 	
