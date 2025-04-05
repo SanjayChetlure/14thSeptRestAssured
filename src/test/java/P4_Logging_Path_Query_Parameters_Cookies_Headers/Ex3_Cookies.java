@@ -15,7 +15,7 @@ import java.util.Set;
 public class Ex3_Cookies
 {	
 	//@Test
-	public void testCookies()
+	public void testCookies_withoutStoringResponse()
 	{
 		given()
 		
