@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="P4_Logging_Path_Query_Parameters_Cookies_Headers.Ex3_Cookies">
+      <class name="P3_ResponseValidation.Ex5_ValodateResponse_verifySpecificTitleUsingJSOnObject">
         <methods>
-          <include name="testCookies"/>
+          <include name="getAllTitlesFromResponseUsingJSONObject"/>
         </methods>
-      </class> <!-- P4_Logging_Path_Query_Parameters_Cookies_Headers.Ex3_Cookies -->
+      </class> <!-- P3_ResponseValidation.Ex5_ValodateResponse_verifySpecificTitleUsingJSOnObject -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
