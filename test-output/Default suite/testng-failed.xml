@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="P3_ResponseValidation.Ex5_ValodateResponse_verifySpecificTitleUsingJSOnObject">
+      <class name="P6_Request_Response_Specification.Ex1_WithoutRequestResponseSpecBuilder">
         <methods>
-          <include name="getAllTitlesFromResponseUsingJSONObject"/>
+          <include name="TC2_getSpecificStudentDatails"/>
         </methods>
-      </class> <!-- P3_ResponseValidation.Ex5_ValodateResponse_verifySpecificTitleUsingJSOnObject -->
+      </class> <!-- P6_Request_Response_Specification.Ex1_WithoutRequestResponseSpecBuilder -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

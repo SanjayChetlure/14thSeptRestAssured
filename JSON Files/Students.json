@@ -29,26 +29,6 @@
         "Python",
         "Selenium"
       ]
-    },
-    {
-      "id": "4",
-      "courses": [
-        "SQL",
-        "Selenium"
-      ],
-      "phone": "4444",
-      "name": "Mahesh",
-      "location": "Mumbai"
-    },
-    {
-      "id": "5",
-      "name": "Rahul",
-      "location": "Nanded",
-      "phone": "5555",
-      "courses": [
-        "Sql",
-        "Api"
-      ]
     }
   ]
 }
