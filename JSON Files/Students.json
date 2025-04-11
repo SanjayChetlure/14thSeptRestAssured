@@ -22,12 +22,22 @@
     },
     {
       "id": "3",
-      "name": "Ganesh",
+      "name": "abc3",
       "location": "Pune",
       "phone": "3333",
       "courses": [
-        "Python",
-        "Selenium"
+        "sub1",
+        "sub2"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "abc3",
+      "location": "Pune",
+      "phone": "3333",
+      "courses": [
+        "sub1",
+        "sub2"
       ]
     }
   ]

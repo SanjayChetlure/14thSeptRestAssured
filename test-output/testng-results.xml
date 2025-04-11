@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-08T21:37:00 IST" name="Default suite" finished-at="2025-04-08T21:37:02 IST" duration-ms="1962">
+  <suite started-at="2025-04-11T21:21:25 IST" name="Default suite" finished-at="2025-04-11T21:21:26 IST" duration-ms="1310">
     <groups>
     </groups>
-    <test started-at="2025-04-08T21:37:00 IST" name="Default test" finished-at="2025-04-08T21:37:02 IST" duration-ms="1962">
-      <class name="P6_Request_Response_Specification.Ex1_WithoutRequestResponseSpecBuilder">
-        <test-method signature="TC1_postStudentDatails()[pri:1, instance:P6_Request_Response_Specification.Ex1_WithoutRequestResponseSpecBuilder@192d43ce]" started-at="2025-04-08T21:37:00 IST" name="TC1_postStudentDatails" finished-at="2025-04-08T21:37:02 IST" duration-ms="1779" status="PASS">
+    <test started-at="2025-04-11T21:21:25 IST" name="Default test" finished-at="2025-04-11T21:21:26 IST" duration-ms="1310">
+      <class name="P7_Serialization_And_DeSerialization.ex1_serialization_Deserialization_Students">
+        <test-method signature="TC2_DeSerialization()[pri:2, instance:P7_Serialization_And_DeSerialization.ex1_serialization_Deserialization_Students@4d9e68d0]" started-at="2025-04-11T21:21:25 IST" name="TC2_DeSerialization" finished-at="2025-04-11T21:21:26 IST" duration-ms="1279" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC1_postStudentDatails -->
-        <test-method signature="TC2_getSpecificStudentDatails()[pri:2, instance:P6_Request_Response_Specification.Ex1_WithoutRequestResponseSpecBuilder@192d43ce]" started-at="2025-04-08T21:37:02 IST" name="TC2_getSpecificStudentDatails" finished-at="2025-04-08T21:37:02 IST" duration-ms="102" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC2_getSpecificStudentDatails -->
-        <test-method signature="TC3_UpdateSpecificStudentDatails()[pri:3, instance:P6_Request_Response_Specification.Ex1_WithoutRequestResponseSpecBuilder@192d43ce]" started-at="2025-04-08T21:37:02 IST" name="TC3_UpdateSpecificStudentDatails" finished-at="2025-04-08T21:37:02 IST" duration-ms="32" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC3_UpdateSpecificStudentDatails -->
-        <test-method signature="TC3_DeeleteSpecificStudentDatails()[pri:4, instance:P6_Request_Response_Specification.Ex1_WithoutRequestResponseSpecBuilder@192d43ce]" started-at="2025-04-08T21:37:02 IST" name="TC3_DeeleteSpecificStudentDatails" finished-at="2025-04-08T21:37:02 IST" duration-ms="16" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC3_DeeleteSpecificStudentDatails -->
-      </class> <!-- P6_Request_Response_Specification.Ex1_WithoutRequestResponseSpecBuilder -->
+        </test-method> <!-- TC2_DeSerialization -->
+      </class> <!-- P7_Serialization_And_DeSerialization.ex1_serialization_Deserialization_Students -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
