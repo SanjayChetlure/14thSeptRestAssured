@@ -29,16 +29,6 @@
         "sub1",
         "sub2"
       ]
-    },
-    {
-      "id": "3",
-      "name": "abc3",
-      "location": "Pune",
-      "phone": "3333",
-      "courses": [
-        "sub1",
-        "sub2"
-      ]
     }
   ]
 }
