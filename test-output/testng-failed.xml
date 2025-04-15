@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="P7_Serialization_And_DeSerialization.ex1_serialization_Deserialization_Students">
+      <class name="P11_DataProvider.StudentsTest">
         <methods>
-          <include name="TC2_DeSerialization"/>
+          <include name="TC4"/>
         </methods>
-      </class> <!-- P7_Serialization_And_DeSerialization.ex1_serialization_Deserialization_Students -->
+      </class> <!-- P11_DataProvider.StudentsTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
